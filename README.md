@@ -13,13 +13,17 @@ For the PHP file you can use composer:
 composer require reich/longpolling
 ```
 
+<p align="center"><img src="https://s7.postimg.org/71hke1uaz/longpolling.jpg" width="300" height="300"></p>
 
 # Usage
 
 On the server side you need to listen for changes with the following code snippet:
 ```php
 \Reich\PHP\LongPolling::check(1000, function() {
-	// return your data you wish to the client.
+	// we are inside a continuing loop,
+	// return some data to the client.
+	// Only if the data has been changed / modified 
+	// the client will recieve the changes.
 });
 ```
 
