@@ -1,3 +1,5 @@
+<p align="center"><img src="https://s7.postimg.org/71hke1uaz/longpolling.jpg" width="350" height="300"></p>
+
 # Long-Polling
 
 A intuitive and clean way to write long-polling applications
@@ -12,8 +14,6 @@ For the PHP file you can use composer:
 ```sh
 composer require reich/longpolling
 ```
-
-<p align="center"><img src="https://s7.postimg.org/71hke1uaz/longpolling.jpg" width="300" height="300"></p>
 
 # Usage
 
