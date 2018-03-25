@@ -1,6 +1,6 @@
 {
-    "name": "reich/longpooling",
-    "description": "An intuitive and clean way to write long-pooling applications",
+    "name": "reich/longpolling",
+    "description": "An intuitive and clean way to write long-polling applications",
     "type": "library",
     "license": "MIT",
     "authors": [
