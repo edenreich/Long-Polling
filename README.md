@@ -1,2 +1,2 @@
-# Long-Pooling
-A intuitive and clean way to write long-pooling applications
+# Long-Polling
+A intuitive and clean way to write long-polling applications

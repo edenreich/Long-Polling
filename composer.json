@@ -1,0 +1,13 @@
+{
+    "name": "reich/longpooling",
+    "description": "An intuitive and clean way to write long-pooling applications",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eden Reich",
+            "email": "eden.reich@gmail.com"
+        }
+    ],
+    "require": {}
+}
